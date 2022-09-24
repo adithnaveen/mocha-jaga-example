@@ -1,0 +1,19 @@
+{
+  "name": "mochatest",
+  "version": "1.0.0",
+  "description": "simple app for testing ",
+  "main": "",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "expect": "^21.2.1",
+    "mocha": "^4.0.1",
+    "mocha-simple-html-reporter": "^1.1.0",
+    "mochawesome": "^2.3.1",
+    "should": "^13.1.3"
+  }
+}
